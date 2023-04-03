@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const Color background = Color(0xffF8F8F8);
+const Color tabColor = Color(0xff19A5B0);
+const Color textColorBlack = Color(0xff25282B);
+const Color textColorGrey = Color(0xffA0A4A8);
+const Color textButtonColor = Color(0xffEA6F06);
+const Color backButtonBackground = Color(0xffDEF3F4);
+const Color textfieldFillColor = Color(0xffE8E8E8);
+const Color searchFillColor = Color(0xffEDEDED);
+const Color errorColor = Color(0xffE5251D);
+const Color fixedBottomColor = Color(0xffFFFFFF);
+const Color greenColor = Color(0xff2AC769);
+const Color iconColor = Color(0xffD0C9D6);
+const Color bottomNavIcon = Color(0xffA0A4A8);
+const Color actionButton = Color(0xff52575C);
+const Color textButtonColorOpa = Color(0xffFCE9DA);
+const Color tab2Background = Color(0xffD5F1F3);
+const Color tab3Background = Color(0xffE9EFD2);
+const Color tab3Color = Color(0xff9AB82E);
+const Color backgroundBooking = Color(0xffC65F07);
+const Color backgroundBooking1 = Color(0xff14828B);
